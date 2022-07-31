@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name "SofleRGB")(type "KiCad")(uri "${KIPRJMOD}/Souffle_vR.pretty")(options "")(descr ""))
+  (lib (name "custom mods")(type "KiCad")(uri "${KIPRJMOD}/custom mods")(options "")(descr ""))
+)

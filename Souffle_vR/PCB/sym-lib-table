@@ -1,0 +1,5 @@
+(sym_lib_table
+  (lib (name "SofleKeyboard-rescue")(type "KiCad")(uri "${KIPRJMOD}/SouffleKeyboard-rescue.kicad_sym")(options "")(descr ""))
+  (lib (name "SofleKeyboard")(type "KiCad")(uri "${KIPRJMOD}/SouffleKeyboard.kicad_sym")(options "")(descr ""))
+  (lib (name "evqwgd001")(type "KiCad")(uri "${KIPRJMOD}/../../symbols/evqwgd001.kicad_sym")(options "")(descr ""))
+)
