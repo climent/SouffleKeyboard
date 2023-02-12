@@ -401,6 +401,7 @@
         "microvia_drill": 0.1,
         "name": "VCC",
         "nets": [
+          "LEDVCC",
           "VCC"
         ],
         "pcb_color": "rgba(0, 0, 0, 0.000)",
