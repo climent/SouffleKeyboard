@@ -213,7 +213,6 @@
   (gr_line (start 209.7636 139.935639) (end 209.535 139.935639) (layer "Cmts.User") (width 0.1) (tstamp f73e6275-8e39-450f-9124-ce04056aca05))
   (gr_line (start 210.236601 139.878543) (end 210.019191 139.917143) (layer "Cmts.User") (width 0.1) (tstamp fa7b11f3-28de-4433-865d-cb9e0cd03236))
   (gr_line (start 91.302308 142.045119) (end 91.099848 142.030819) (layer "Cmts.User") (width 0.1) (tstamp faf02a50-6e6f-47b1-812a-9e530c193173))
-  (gr_circle (center 85.644 99.963139) (end 95.594 98.633139) (layer "Eco1.User") (width 0.15) (fill none) (tstamp a90cd495-f8b3-42e8-a0d3-793b3b8d7985))
   (gr_line (start 90.40507 141.641469) (end 90.283386 141.469069) (layer "Edge.Cuts") (width 0.1) (tstamp 01768d3a-0df8-48a1-a0a2-52a995fa69ce))
   (gr_line (start 91.506976 142.022919) (end 91.302308 142.045119) (layer "Edge.Cuts") (width 0.1) (tstamp 0c0d32ea-3eb8-40a4-9cec-f26d9b53b4b4))
   (gr_rect (start 194.384 89.023139) (end 208.384 103.023139) (layer "Edge.Cuts") (width 0.1) (fill none) (tstamp 11766b02-ed64-40f4-9b73-8b588f673156))
