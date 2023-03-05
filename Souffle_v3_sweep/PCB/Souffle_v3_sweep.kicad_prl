@@ -17,15 +17,15 @@
     "ratsnest_display_mode": 0,
     "selection_filter": {
       "dimensions": true,
-      "footprints": false,
+      "footprints": true,
       "graphics": true,
       "keepouts": true,
       "lockedItems": false,
       "otherItems": true,
       "pads": true,
       "text": true,
-      "tracks": false,
-      "vias": false,
+      "tracks": true,
+      "vias": true,
       "zones": true
     },
     "visible_items": [
@@ -38,7 +38,6 @@
       8,
       9,
       10,
-      11,
       12,
       13,
       14,
@@ -64,8 +63,8 @@
       35,
       36
     ],
-    "visible_layers": "803f9ef_ffffffff",
-    "zone_display_mode": 1
+    "visible_layers": "800f1ff_ffffffff",
+    "zone_display_mode": 0
   },
   "meta": {
     "filename": "Souffle_v3_sweep.kicad_prl",
