@@ -64,7 +64,7 @@
       36
     ],
     "visible_layers": "800f1ff_ffffffff",
-    "zone_display_mode": 0
+    "zone_display_mode": 1
   },
   "meta": {
     "filename": "Souffle_v3_sweep.kicad_prl",
