@@ -15,11 +15,16 @@ Key features:
     *   the keys on the thumb cluster has been repositioned to allow for equal reach of the keys.
 *   V3 adds support for nice!nano with solder points for a battery and a power switch. 
 
+## Images of keyboard
+
+![SouffleKeyboard PCB](docs/images/SouffleKeyboard_v2_PCB_KiCad.png)
+![SouffleKeyboard V3](docs/images/SouffleKeyboard_v3.png)
+
 ## Build notes
 
 Build guide will be added soon. Meanwhile, the [Sofle Build Guide](https://josefadamcik.github.io/SofleKeyboard/build_guide.html) should be a good starting point.
 
-## ### BOM
+## BOM
 
 | Item                                                       | Quantity | Notes                                                                                                                                                                                                                                                |
 |------------------------------------------------------------|----------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -52,10 +57,6 @@ Soufflé uses [QMK firmware](https://qmk.fm/) and it is fully compatible with th
 ## Default layout 
 
 Soufflé uses a similar layout than the Sofle, with a full 6x5 matrix, and the encoders connected to the same pins. The main difference is the position of the outermost thumb key, which has been moved to the bottom of the pinky column, to be used with the palm.
-
-## Images of keyboard
-
-![SouffleKeyboard PCB](docs/images/SouffleKeyboard_v2_PCB_KiCad.png)
 
 ## Older versions
 
