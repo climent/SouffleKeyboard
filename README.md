@@ -24,7 +24,7 @@ Key features:
 
 Build guide will be added soon. Meanwhile, the [Sofle Build Guide](https://josefadamcik.github.io/SofleKeyboard/build_guide.html) should be a good starting point.
 
-## ### BOM
+## BOM
 
 | Item                                                       | Quantity | Notes                                                                                                                                                                                                                                                |
 |------------------------------------------------------------|----------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
