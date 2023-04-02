@@ -23,4 +23,4 @@ Soufflé uses a similar layout than the Sofle, with a full 6x5 matrix, and the e
 
 ## Images of keyboard
 
-![SouffleKeyboard PCB](../docs/images/souffle_v2_encoder_top_view_2.jpg)
+![SouffleKeyboard PCB](../docs/images/souffle_vr_encoder_top_view_2.jpg)
