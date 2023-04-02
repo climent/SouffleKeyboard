@@ -1,13 +1,13 @@
 
-# Soufflé Keyboard v3
+# Soufflé Keyboard v3 Sweep
 
-Soufflé v3 is 6×4+1+4+1 keys column-staggered split keyboard with encoder, OLED, palm key and nice!nano support.
+Soufflé v3 is 6×4+1+4+1 keys column-staggered split keyboard with encoder, OLED, palm key and nice!nano support. It is an evolution of the Soufflé V2 keyboard, with a more aggressive arrangement of the pinkie columns.
 
-Soufflé was created by [Jesus Climent](https://https://github.com/climent/).
+Soufflé V3 Sweep was created by [Jesus Climent](https://https://github.com/climent/).
 
 ## Firmware 
 
-Soufflé v3 uses [QMK firmware](https://qmk.fm/) and it is fully compatible with the Sofle firmware.
+Soufflé v3 Sweep uses [QMK firmware](https://qmk.fm/) and it is fully compatible with the Sofle firmware.
 
 ## Images of keyboard
 
