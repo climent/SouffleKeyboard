@@ -87,5 +87,6 @@ In this repository you will find several  releases of the Soufflé Keyboard:
     *   Thumb cluster repositioned, to make the keys slightly more accessible, as the V2.
     *   The encoder footprint shares a switch footprint, allowing to choose what to put there, as the V2.
     *   The reset button has been repositioned, and is accessible through a hole in the lower plate.
+    *   Added battery connection points, and a power switch, for use with nice!nano.
     *   Removed I2C connectivity option.
     *   Curved contour of the keyboard.
