@@ -6,14 +6,16 @@ Soufflé was created by [Jesus Climent](https://https://github.com/climent/).
 
 Key features:
 
-*   Palm key at the bottom of the outer pinky column.
-*   Choice between rotary encoder or key switch for the inner keys.
-*   Removed i2c communication betweek halves.
-*   Redone layout with simplified, curved tracks.
 *   Originally based on the Soufflé V1 release layout,
-    *   the two pinky columns have been lowered: ~5mm for the V1/V2, ~10mm for the V3 Sweep.
+    *   the two pinky columns have been lowered: ~5mm for the V2, ~10mm for the V3 Sweep.
     *   the keys on the thumb cluster has been repositioned to allow for equal reach of the keys.
+    *   palm key at the bottom of the outer pinkie column.
+*   Choice between rotary encoder or key switch for the inner keys.
+*   Redone track layout with simplified, curved tracks.
 *   V3 adds support for nice!nano with solder points for a battery and a power switch. 
+*   Removed i2c communication betweek halves.
+
+The VR release is a result of me experimenting with the RGB layout. However, I could not adapt to the displaced thumb cluster, so I returned to the V1 layout when I designed the V2.
 
 ## Images of keyboard
 

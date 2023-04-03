@@ -5,11 +5,9 @@ Soufflé v1 is 6×4+1+4+1 keys column-staggered split keyboard with encoder supp
 
 Soufflé was created by [Jesus Climent](https://https://github.com/climent/).
 
-Key features:
+Key changes compared to the Sofle V1:
 
 *   Palm key at the bottom of the outer pinky column.
-*   2x rotary encoders.
-*   More (to be listed).
 
 ## Firmware 
 
