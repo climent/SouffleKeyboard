@@ -63,13 +63,29 @@ Soufflé uses a similar layout than the Sofle, with a full 6x5 matrix, and the e
 
 ## Older versions
 
-In this repository you will find 3 releases of the Soufflé Keyboard:
+In this repository you will find several  releases of the Soufflé Keyboard:
 
 *   V1: Based on the Sofle v1 and the Lily58. Key features:
     *   Added the palm key at the bottom of the pinky column.
     *   Some re-routing done and some label fixes, but modtly unchanged from the Sofle v1.
 *   VR: Based on the Sofle RGB. Key features:
-    *   Same palm key configuration then the V1.
+    *   Same palm key configuration as the V1.
     *   The layout footprint is based on the RGB, and thus the thumb cluster is slightly displaced to the center (compared to the V1).
     *   The encoder footprint shares a switch footprint, allowing for the user to choose what to put there.
     *   Pins for the encoder/switch have been exposed, as the top case plate can accommodate a roller encoder.
+*   V2: Based on the Soufflé V1. Key features:
+    *   Same palm key configuration as the V1.
+    *   Pinkie columns have been lowered.
+    *   Thumb cluster repositioned, to make the keys slightly more accessible.
+    *   The encoder footprint shares a switch footprint, allowing to choose what to put there.
+    *   Removed I2C connectivity option.
+    *   Curved contour of the keyboard.
+*   V3: Based on the Soufflé V2, and the Ferris Sweep layout. Key features:
+    *   Same palm key configuration as the previous releases.
+    *   Pinkie columns have been lowered even further, similar to the Ferris Sweep keyboard.
+    *   Middle finger column has been raised, similar to the Ferris Sweep keyboard.
+    *   Thumb cluster repositioned, to make the keys slightly more accessible, as the V2.
+    *   The encoder footprint shares a switch footprint, allowing to choose what to put there, as the V2.
+    *   The reset button has been repositioned, and is accessible through a hole in the lower plate.
+    *   Removed I2C connectivity option.
+    *   Curved contour of the keyboard.
