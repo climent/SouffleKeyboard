@@ -1,0 +1,17 @@
+(footprint "HOLE_M2_TH_CALIBRATED" (version 20211014) (generator pcbnew)
+  (layer "F.Cu")
+  (tedit 5D908E75)
+  (property "Sheetfile" "Souffle_v3_sweep.kicad_sch")
+  (property "Sheetname" "")
+  (attr through_hole)
+  (fp_text reference "TH3" (at 0 -2.54) (layer "F.SilkS") hide
+    (effects (font (size 0.29972 0.29972) (thickness 0.0762)))
+    (tstamp bdd78c63-b026-4699-8323-a242041a872d)
+  )
+  (fp_text value "HOLE" (at 0 2.54) (layer "F.SilkS") hide
+    (effects (font (size 0.29972 0.29972) (thickness 0.0762)))
+    (tstamp 15d9ca73-d2eb-4a48-8e7a-39fff1d75d12)
+  )
+  (pad "" thru_hole circle (at 0 0 90) (size 4 4) (drill 3.3) (layers *.Cu *.Mask "Dwgs.User")
+    (clearance 0.3) (tstamp 6f3c0510-6b26-4d41-9cef-274c8134114c))
+)
