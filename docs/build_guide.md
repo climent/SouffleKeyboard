@@ -233,19 +233,12 @@ The best approach is to build the firmware yourself. You should be familiar with
 [soflelayout]: http://www.keyboard-layout-editor.com/#/gists/76efb423a46cbbea75465cb468eef7ff "Sofle Keyboard layout at keyboard-layout-editor.com"
 [soflegerber]: https://github.com/josefadamcik/SofleKeyboard/releases "SofleKeyboard - gerber files"
 [qmk_firmware]: https://github.com/qmk/qmk_firmware/ "QMK firmware"
-{:target="_blank"}
 [qmk_configurator]: https://config.qmk.fm/#/sofle/rev1/LAYOUT "QMK configurator"
-{:target="_blank"}
 [springpinheader]: <https://yushakobo.jp/shop/a01mc-00/> "Spring pin headers - Japaneese"
-{:target="_blank"}
 [qmkprotonc]: https://qmk.fm/proton-c/ "QMK Proton-C"
-{:target="_blank"}
 [promicrosocketing]: <https://docs.splitkb.com/hc/en-us/articles/360011263059> "How do I socket a microcontroller? by splitkb.com"
-{:target="_blank"}
 [qmkintro]: <https://beta.docs.qmk.fm/tutorial/newbs_getting_started> "QMK getting started"
-{:target="_blank"}
 [qmkhandedness]: <https://docs.qmk.fm/#/feature_split_keyboard?id=setting-handedness> "QMK firmware - setting handedness"
-{:target="_blank"}
 [manufacturingproblems]: https://josef-adamcik.cz/electronics/corne-keyboard-build-log.html#manufacturing-at-jlcpcb---update-27112019 "Possible problems when manufacturing top plate for Corne"
 [nooledlag]: https://github.com/qmk/qmk_firmware/issues/7522 "No OLED lag bug"
 [soflegithub]: https://github.com/josefadamcik/SofleKeyboard "SofleKeyboard - KiCad project on Github.com"
