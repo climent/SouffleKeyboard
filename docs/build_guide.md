@@ -134,13 +134,16 @@ Finally place the 4-pin socket for the display, keep it in place with masking ta
 
 ### Pro Micro and display pins
 
-![Step 9.1](images/build_guide/TODO.jpg )
-
 There are several ways how to connect the microcontrollers to the boards. You can solder them directly to the PCB, using headers (you most likely received them with the micros). Once again, I encourage you NOT to do that. I have had instances in which the micro was faulty and it would have been a nightmare to desolder it and resolder a new one.
 
 If you use sockets, I have used component "legs", similar to what you can find in this [Splitkb article](https://docs.splitkb.com/hc/en-us/articles/360011263059). However I prefer using Mil Max rounded pins, as they are stronger.
 
-**Keep in mind the orientation**. If you placed the sockets (on the upper side of the PCBs) over the rectangles, the microcontrollers are placed face down.
+**Keep in mind the orientation of the microcontroller**. If you placed the sockets (on the upper side of the PCBs) over the rectangles, the microcontrollers are placed face down.
+
+![Step 9.1](images/build_guide/step9.1.jpg )
+![Step 9.2](images/build_guide/step9.2.jpg )
+![Step 9.3](images/build_guide/step9.3.jpg )
+![Step 9.4](images/build_guide/step9.4.jpg )
 
 I usually place the Mil Max pins on the sockets, place some masking tape (to avoid the solder reaching the socket, and thus making it impossible to remove the micro), place the micro on top, and solder the pins.
 
