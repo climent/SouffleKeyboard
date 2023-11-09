@@ -6,10 +6,10 @@ Soufflé was created by [Jesus Climent](https://https://github.com/climent/).
 
 Key features:
 
-*   Originally based on the Soufflé V1 release layout,
-    *   the two pinky columns have been lowered: ~5mm for the V2, ~10mm for the V3 Sweep.
-    *   the keys on the thumb cluster has been repositioned to allow for equal reach of the keys.
-    *   palm key at the bottom of the outer pinkie column.
+*   Originally based on the Sofle V1 release layout,
+    *   the two pinky columns have been lowered in the Soufflé: ~5mm for the V2, ~10mm for the V3 Sweep
+    *   the thumb cluster has been repositioned to allow for equal reach of the keys
+    *   a palm key has been added at the bottom of the outer pinkie column
 *   Choice between rotary encoder or key switch for the inner keys.
 *   Redone track layout with simplified, curved tracks.
 *   V3 adds support for nice!nano with solder points for a battery and a power switch. 
