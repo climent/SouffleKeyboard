@@ -19,7 +19,7 @@ The VR release is a result of me experimenting with the RGB layout. However, I c
 
 ## Images of keyboard
 
-![SouffleKeyboard PCB](docs/images/SouffleKeyboard_v2_PCB_KiCad.png)
+![SouffleKeyboard PCB](docs/images/SouffleKeyboard_v3_PCB_KiCad.png)
 ![SouffleKeyboard V3](docs/images/SouffleKeyboard_v3.png)
 
 ## Build notes
