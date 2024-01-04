@@ -101,7 +101,8 @@ A way to keep the MX sockets in place while soldering them is by using the switc
 
 ![Turn the PCBs around](images/build_guide/step4.6.jpg)
 
-![Step 5](images/build_guide/step5.jpg )
+![Step 5.1](images/build_guide/step5.1.jpg )
+![Step 5.2](images/build_guide/step5.2.jpg )
 
 Solder the jumper pads for the OLED on the top side of the PCB.
 
