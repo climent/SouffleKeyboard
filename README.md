@@ -81,6 +81,7 @@ In this repository you will find several  releases of the Soufflé Keyboard:
     *   Removed I2C connectivity option.
     *   Curved contour of the keyboard.
 *   V3: Based on the Soufflé V2, and the Ferris Sweep layout. Key features:
+    *   Wireless compatible with Nice!Nano MCUs.
     *   Same palm key configuration as the previous releases.
     *   Pinkie columns have been lowered even further, similar to the Ferris Sweep keyboard.
     *   Middle finger column has been raised, similar to the Ferris Sweep keyboard.
@@ -90,3 +91,5 @@ In this repository you will find several  releases of the Soufflé Keyboard:
     *   Added battery connection points, and a power switch, for use with nice!nano.
     *   Removed I2C connectivity option.
     *   Curved contour of the keyboard.
+*   V3.1: Small upgrade to the V3
+    *   Added a compatibility pin for Nice!View screens.
